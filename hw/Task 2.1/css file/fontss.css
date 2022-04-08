@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "AllegroScript";
+  src: url("../fonts/");
+  src: url("../fonts/?#iefix") format("embedded-opentype"),
+    url("../fonts/subset-AllegroScript.woff2") format("woff2"),
+    url("../fonts/subset-AllegroScript.woff") format("woff"),
+    url("../fonts/subset-AllegroScript.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
